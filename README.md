@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the website.
+Open [http://localhost:3000](http://localhost:3000) with your browser to view and interact with the website.
 
 ## Screenshots
 
