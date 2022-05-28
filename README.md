@@ -19,4 +19,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to view an
 
 ## Screenshots
 
-![Alt text](https://github.com/0xbagholder/crowdfund-frontend/blob/cc58b783e4638043cf22fe10e3d68dc106f4c94b/img/home.png)
+- Home Page
+![Home page](https://github.com/0xbagholder/crowdfund-frontend/blob/cc58b783e4638043cf22fe10e3d68dc106f4c94b/img/home.png)
+
+- Create a New Crowdfund
+![Create new crowdfund](https://github.com/0xbagholder/crowdfund-frontend/blob/92fca7395f3701cde90e1027f80a572667f2a54e/img/crowdfund-new.png)
+
+- Individual Crowdfund Details
+![Crowdfund detail page](https://github.com/0xbagholder/crowdfund-frontend/blob/92fca7395f3701cde90e1027f80a572667f2a54e/img/crowdfund-detail.png)
+
+- Total Crowdfund Requests
+![Crowdfund requests](https://github.com/0xbagholder/crowdfund-frontend/blob/92fca7395f3701cde90e1027f80a572667f2a54e/img/crowdfund-requests.png)
+
+- Create a New Crowdfund Request
+![Crowdfund new request](https://github.com/0xbagholder/crowdfund-frontend/blob/92fca7395f3701cde90e1027f80a572667f2a54e/img/crowdfund-new-requests.png)
