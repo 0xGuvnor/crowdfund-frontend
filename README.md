@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to view an
 
 ## Screenshots
 
-![Alt text](frontend/img/crowdfund-detail.png)
+![Alt text](https://github.com/0xbagholder/crowdfund-frontend/blob/cc58b783e4638043cf22fe10e3d68dc106f4c94b/img/home.png)
