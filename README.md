@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with a browser that has Metamask installed and connect it to the Rinkeby testnet, to view and interact with the website and smart contracts.
+Open [http://localhost:3000](http://localhost:3000) with a browser that has Metamask installed and connect it to the **Rinkeby** testnet, to view and interact with the website and smart contracts.
 
 ## Screenshots
 
