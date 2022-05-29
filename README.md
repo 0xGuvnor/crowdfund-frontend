@@ -1,6 +1,6 @@
 # Crowdfunding dApp Project - Frontend
 
-This repository contains the source code for a front end for users to interact with a Kickstarter-esque crowdfunding dApp, built using [Next.js](https://nextjs.org/).
+This repository contains the source code for a frontend for users to interact with a Kickstarter-esque crowdfunding dApp, built using [Next.js](https://nextjs.org/).
 
 The repository for the backend can be found [here](https://github.com/0xbagholder/crowdfund-backend).
 
@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to view and interact with the website.
+Open [http://localhost:3000](http://localhost:3000) with a browser that has Metamask installed and set to the Rinkeby testnet, to view and interact with the website.
 
 ## Screenshots
 
